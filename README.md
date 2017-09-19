@@ -1,0 +1,2 @@
+# jmeter_send_aliyunMNS
+测试需要jmeter发aliyunMNS的Q消息，为方便测试而编写；
